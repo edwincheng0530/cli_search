@@ -9,10 +9,11 @@ This program is a command line tool written in C that allows users to search for
 - **File Handling**: Reads from an input file, performs search and replace operations based on specified criteria, and writes the modified content to an output file.
 
 ## Command Line Prompts
--s: Search word
--r: Replacement word
+-s: Search word  
+-r: Replacement word  
 -l: Optional - specify line range for search/replace operation  
--w: Optional - wildcard search
+-w: Optional - wildcard search  
+
 `*Order of these prompts do not matter, but input.txt and output.txt **must** be the second to last and last arguments, respectively*`
 
 ### Examples
